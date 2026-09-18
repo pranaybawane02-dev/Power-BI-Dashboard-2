@@ -24,7 +24,7 @@ Developed an interactive **E-Commerce Sales Dashboard** using Power BI to analyz
 * Identify the most popular product categories.
 * Analyze monthly profit trends.
 * Compare customer-wise sales performance.
-* Understand customer payment preferences.
+* Understand customer payment preferences. 
 * Identify the most profitable sub-categories.
 * Use filters to explore data by quarter and state.
 
