@@ -10,7 +10,7 @@ Developed an interactive **E-Commerce Sales Dashboard** using Power BI to analyz
 * 📈 KPI Cards for Amount, Quantity, Profit, and Average Order Value
 * 🗺️ State-wise Sales Analysis
 * 🛍️ Category-wise Quantity Analysis 
-* 📅 Monthly Profit Analysis
+* 📅 Monthly Profit Analysis   
 * 👥 Customer-wise Sales Analysis
 * 💳 Payment Mode Analysis
 * 🏆 Sub-Category-wise Profit Analysis
