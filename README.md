@@ -3,7 +3,7 @@
 
 ## 📖 Overview
 
-Developed an interactive **E-Commerce Sales Dashboard** using Power BI to analyze sales, profit, quantity, customers, products, states, and payment methods. The dashboard provides a clear view of business performance through interactive KPIs and visualizations.
+Developed an interactive **E-Commerce Sales Dashboard** using Power BI to analyze sales, profit, quantity, customers, products, states, and payment methods. The dashboard provides a clear view of business performance through interactive KPIs and visualizations. 
 
 ## ✨ Key Features
  
